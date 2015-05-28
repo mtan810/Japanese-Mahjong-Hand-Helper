@@ -1,0 +1,2 @@
+﻿title: Japanese Mahjong Hand Helper
+seas-usernames: masontan
